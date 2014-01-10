@@ -4,7 +4,7 @@
     <string name="app_name">Color Remote</string>
     <string name="title_activity_main">Color Remote</string>
     <string name="about_menu">About</string>
-    <string name="about_text">ColorRemote created by Kirby Baylin \nhttps://github.com/superkirbz13/ColorRemote\nv1.0</string>
+    <string name="about_text"> ColorRemote created by Kirby Baylin \n https://github.com/superkirbz13/ColorRemote \n v1.0 </string>
     <string name="button_power">Power</string>
     <string name="button_empty">    </string>
     <string name="button_up">Up</string>
