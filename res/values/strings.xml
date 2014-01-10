@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Color Remote</string>
+    <string name="title_activity_main">Color Remote</string>
+    <string name="about_menu">About</string>
+    <string name="about_text">ColorRemote created by Kirby Baylin \nhttps://github.com/superkirbz13/ColorRemote\nv1.0</string>
+    <string name="button_power">Power</string>
+    <string name="button_empty">    </string>
+    <string name="button_up">Up</string>
+    <string name="button_down">Down</string>
+    <string name="button_play">Play</string>
+    <string name="button_brightness_up">Br Up</string>
+    <string name="button_brightness_down">Br Dn</string>
+    <string name="button_DIY_1">DIY1</string>
+    <string name="button_DIY_2">DIY2</string>
+    <string name="button_DIY_3">DIY3</string>
+    <string name="button_DIY_4">DIY4</string>
+    <string name="button_DIY_5">DIY5</string>
+    <string name="button_DIY_6">DIY6</string>
+    <string name="button_jump_3">Jump 3</string>
+    <string name="button_jump_7">Jump 7</string>
+    <string name="button_fade_3">Fade 3</string>
+    <string name="button_fade_7">Fade 7</string>
+    <string name="button_auto">Auto</string>
+    <string name="button_flash">Flash</string>
+    <string name="button_quick">Quick</string>
+    <string name="button_slow">Slow</string>
+
+</resources>
